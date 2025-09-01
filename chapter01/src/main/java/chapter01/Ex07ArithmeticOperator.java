@@ -49,5 +49,4 @@ public class Ex07ArithmeticOperator {
 		System.out.println("나머지:" + (-7 % 3)); // 몫: -2, 나머지는 -1
 		System.out.println("나머지:" + (7 % -3)); // 몫: 2, 나머지는 1
 	}
-
 }

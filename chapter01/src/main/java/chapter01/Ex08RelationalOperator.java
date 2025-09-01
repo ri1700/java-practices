@@ -14,5 +14,4 @@ public class Ex08RelationalOperator {
 		System.out.println(3 == 2 + 1);
 		System.out.println(!(3 == 2));
 	}
-
 }

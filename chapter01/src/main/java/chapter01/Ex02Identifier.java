@@ -5,7 +5,7 @@ public class Ex02Identifier {
 	public static void main(String[] args) {
 		// 올바른 식별자 사용
 		int totalScore = 90;
-		String userName = "kickscar";
+		String userName = "hazard";
 		
 		// 자못된 식별자 사용
 		// int 1stRank = 1; // 숫자로 시작
@@ -13,5 +13,4 @@ public class Ex02Identifier {
 		
 		Object o = null;
 	}
-
 }

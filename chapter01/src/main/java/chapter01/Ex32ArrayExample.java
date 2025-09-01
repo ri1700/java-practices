@@ -16,7 +16,5 @@ public class Ex32ArrayExample {
 		for(int a : arr) {
 			System.out.print(a + " ");
 		}
-
 	}
-
 }

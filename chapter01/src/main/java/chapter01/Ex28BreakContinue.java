@@ -15,5 +15,4 @@ public class Ex28BreakContinue {
 			System.out.println(i);
 		}
 	}
-
 }

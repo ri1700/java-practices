@@ -17,5 +17,4 @@ public class Ex19PowerOfTwo {
 		
 		System.out.println(result);
 	}
-
 }

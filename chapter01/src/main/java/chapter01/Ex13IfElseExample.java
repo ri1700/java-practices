@@ -15,5 +15,4 @@ public class Ex13IfElseExample {
 			System.out.println("홀수");
 		}
 	}
-
 }

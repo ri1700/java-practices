@@ -22,5 +22,4 @@ public class Ex05DataType {
 		System.out.println(message2);
 		System.out.println(scores1);
 	}
-
 }

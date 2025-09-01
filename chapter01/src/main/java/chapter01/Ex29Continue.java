@@ -12,5 +12,4 @@ public class Ex29Continue {
 			System.out.println(i);
 		}
 	}
-
 }

@@ -13,5 +13,4 @@ public class Ex12IfExample {
 			System.out.println("합격");
 		}
 	}
-
 }

@@ -15,5 +15,4 @@ public class Ex10OperatorExample {
 		System.out.println(second + "초 입니다.");
 
 	}
-
 }

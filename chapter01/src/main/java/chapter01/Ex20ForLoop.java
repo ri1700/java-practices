@@ -9,5 +9,4 @@ public class Ex20ForLoop {
 		}
 		
 	}
-
 }

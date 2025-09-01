@@ -31,5 +31,4 @@ public class Ex16SwitchExample01 {
 				System.out.println("잘못된 입력입니다.");
 		}
 	}
-
 }

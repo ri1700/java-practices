@@ -23,5 +23,4 @@ public class Ex06TypeCasting {
 		byte b2 = -128;
 		System.out.println(b2);
 	}
-
 }

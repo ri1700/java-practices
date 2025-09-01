@@ -13,5 +13,4 @@ public class Ex22SumToTen {
 		
 		System.out.println(sum);
 	}
-
 }

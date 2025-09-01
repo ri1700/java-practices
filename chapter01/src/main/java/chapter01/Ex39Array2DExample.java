@@ -23,7 +23,5 @@ public class Ex39Array2DExample {
 			
 			System.out.println();
 		}
-		
 	}
-
 }

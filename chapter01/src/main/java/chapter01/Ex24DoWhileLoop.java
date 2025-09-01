@@ -12,5 +12,4 @@ public class Ex24DoWhileLoop {
 
 		
 	}
-
 }

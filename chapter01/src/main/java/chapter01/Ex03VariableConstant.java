@@ -27,7 +27,7 @@ public class Ex03VariableConstant {
 		System.out.println(b);
 		
 		// Class
-		String name = "안대혁";
+		String name = "박준성";
 		System.out.println(name);
 		
 		// 상수

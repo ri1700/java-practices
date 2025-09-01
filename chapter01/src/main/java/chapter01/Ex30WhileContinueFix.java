@@ -23,5 +23,4 @@ public class Ex30WhileContinueFix {
 		    System.out.println(i); 
 		}		
 	}
-
 }

@@ -13,5 +13,4 @@ public class Ex18WhileLoop {
 		
 		System.out.println("out of loop");
 	}
-
 }

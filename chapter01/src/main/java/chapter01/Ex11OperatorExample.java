@@ -31,5 +31,4 @@ public class Ex11OperatorExample {
 		double area = PI * radius * radius;
 		return area;
 	}
-
 }

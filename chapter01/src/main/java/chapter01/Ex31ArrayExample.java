@@ -21,5 +21,4 @@ public class Ex31ArrayExample {
 		// (주의) 예외발생: ArrayIndexOutOfBoundsException
 		// System.out.println(arr2[3]);
 	}
-
 }

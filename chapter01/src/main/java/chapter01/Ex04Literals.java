@@ -6,8 +6,8 @@ public class Ex04Literals {
 		//  리터럴이란 프로그램에 직접적으로 표현되는 값
 		
 		int i = 1;
-		char c = '안';
-		double d = 42.195;
+		char c = '박';
+		double d = 12.345;
 		
 		System.out.println(i);
 		System.out.println(c);

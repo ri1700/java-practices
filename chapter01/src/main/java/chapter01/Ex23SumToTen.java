@@ -11,5 +11,4 @@ public class Ex23SumToTen {
 		
 		System.out.println(sum);
 	}
-
 }

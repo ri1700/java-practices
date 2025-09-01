@@ -14,5 +14,4 @@ public class Ex26InfiniteLoop {
 		}
 
 	}
-
 }

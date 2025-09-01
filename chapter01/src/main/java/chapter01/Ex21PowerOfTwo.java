@@ -11,5 +11,4 @@ public class Ex21PowerOfTwo {
 
 		System.out.println(result);
 	}
-
 }

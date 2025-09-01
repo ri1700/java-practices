@@ -20,5 +20,4 @@ public class Ex37ArraysUtilExample {
 		int[] arr3 = new int[] {1, 3, 4};
 		System.out.println(Arrays.equals(arr, arr3));
 	}
-
 }

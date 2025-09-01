@@ -22,5 +22,4 @@ public class Ex17SwitchExample02 {
 				System.out.println("F");
 		}
 	}
-
 }

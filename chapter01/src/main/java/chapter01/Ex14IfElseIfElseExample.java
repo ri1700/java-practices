@@ -27,5 +27,4 @@ public class Ex14IfElseIfElseExample {
 			System.out.println("F");
 		}
 	}
-
 }
