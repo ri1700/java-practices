@@ -21,5 +21,4 @@ public class Sol {
 			System.out.println("소문자");
 		}
 	}
-
 }

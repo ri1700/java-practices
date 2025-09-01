@@ -23,5 +23,4 @@ public class Sol {
 			System.out.println("같습니다.");
 		}
 	}
-
 }

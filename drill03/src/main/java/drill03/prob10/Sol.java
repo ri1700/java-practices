@@ -30,8 +30,7 @@ public class Sol {
 				System.out.println(num1 / num2);
 				break;
 			default:
-				System.out.println("unkown operator");
+				System.out.println("다시 해라");
 		}
 	}
-
 }

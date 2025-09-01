@@ -13,10 +13,10 @@ public class Sol {
 	public static void main(String[] args) {
 		int kor = 80, eng = 75, math = 35;
 		
-		// 평균 구하기
+		// 평균
 		float average = (kor + eng + math) / 3;
 		
-		// 조건식 복합 사용
+		// 국 40, 영 40, 수학 40 미만
 		if(kor < 40 || eng < 40 || math < 40) {
 			System.out.println("Fail");
 		} else if(average < 60) {
@@ -25,5 +25,4 @@ public class Sol {
 			System.out.println("Pass");
 		}
 	}
-
 }

@@ -22,5 +22,4 @@ public class Sol {
 			System.out.println("일반 사용자입니다.");
 		}
 	}
-
 }

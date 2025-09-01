@@ -12,11 +12,11 @@ package drill03.prob09;
 public class Sol {
 
 	public static void main(String[] args) {
-		String id = "user01";
-		String pw = "pw123";
+		String id = "user123";
+		String pw = "pass123";
 
-		String inputId = "user01";
-		String inputPw = "pw123";
+		String inputId = "user123";
+		String inputPw = "pass123";
 
 		// equals() 비교
 		// 중첩 if 또는 논리연산자(&&, ||) 사용
@@ -26,5 +26,4 @@ public class Sol {
 			System.out.println("로그인 실패");
 		}
 	}
-
 }

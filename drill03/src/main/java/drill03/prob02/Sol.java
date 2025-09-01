@@ -22,5 +22,4 @@ public class Sol {
 			System.out.println("윤년이 아닙니다.");
 		}
 	}
-
 }

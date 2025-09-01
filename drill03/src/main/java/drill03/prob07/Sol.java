@@ -43,9 +43,7 @@ public class Sol {
 				System.out.println("겨을");
 				break;
 			default:
-				System.out.println("미친계절");
+				System.out.println("??");
 		}
-
 	}
-
 }
