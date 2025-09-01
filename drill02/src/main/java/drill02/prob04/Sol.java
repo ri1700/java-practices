@@ -16,5 +16,4 @@ public class Sol {
 		byte b = (byte) i;
 		System.out.println("b = " + b);
 	}
-
 }

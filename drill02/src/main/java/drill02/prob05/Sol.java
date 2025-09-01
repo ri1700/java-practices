@@ -24,5 +24,4 @@ public class Sol {
 		System.out.println(a > b && b > 0);
 		System.out.println(!(a == 7));
 	}
-
 }

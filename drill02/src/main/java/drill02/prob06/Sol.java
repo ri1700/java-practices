@@ -26,7 +26,7 @@ public class Sol {
 		// float f = 3.14;
 		float f = 3.14f;
 		
-		String name = "Alice";
+		String name = "Hazard";
 		
 		System.out.println(count);
 		System.out.println(isOn);
@@ -34,5 +34,4 @@ public class Sol {
 		System.out.println(f);
 		System.out.println(name);		
 	}
-
 }

@@ -15,12 +15,8 @@ public class Sol {
 
 	public static void main(String[] args) {
 		// int int = 0;
-		String first_name = "대혁";
-		// String 9items = "9 아이템";
+		String first_name = "박준성";
 		int $total = 100;
-		String className = "Sol";
-		// String public = "퍼블릭";
-		
+		String className = "Haz";
 	}
-
 }

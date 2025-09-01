@@ -17,10 +17,10 @@ public class Sol {
 
 	public static void main(String[] args) {
 		int age = 27;
-		float height = 175.5f;
+		float height = 172.3f;
 		boolean isStudent = true;
 		char grade = 'A';
-		String name = "김자바";
+		String name = "박준성";
 	}
 
 }
