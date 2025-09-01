@@ -16,8 +16,7 @@ public class Sol {
 		for(int i = 1; i <= 100; i++) {
 			sum += i;
 		}
-		
+		// 합계
 		System.out.println("total : " + sum);
 	}
-
 }

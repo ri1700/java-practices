@@ -17,5 +17,4 @@ public class Sol {
 			System.out.print(i-- + " ");
 		}
 	}
-
 }

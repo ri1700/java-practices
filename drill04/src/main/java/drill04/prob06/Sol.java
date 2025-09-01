@@ -19,7 +19,6 @@ public class Sol {
 			i++;
 		}
 		
-		System.out.printf("곱 : %d", result);
+		System.out.printf("곱 한 값은 : %d", result);
 	}
-
 }

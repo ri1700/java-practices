@@ -15,20 +15,25 @@ import java.util.Scanner;
 public class Sol {
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+	        Scanner sc = new Scanner(System.in);
 
-		System.out.print("숫자를 입력하세요[2 - ]: ");
-		int number = scanner.nextInt();
-		scanner.close();
+	        System.out.print("정수를 입력하세요: ");
+	        int num = sc.nextInt();
 
-		boolean isPrime = true;
-		for (int i = 2; i < number; i++) {
-			if (number % i == 0) {
-				isPrime = false;
-				break;
-			}
-		}
+	        if (isPrime(num)) {
+	            System.out.println(num + "는 소수입니다.");
+	        } else {
+	            System.out.println(num + "는 소수가 아닙니다.");
+	        }
 
-		System.out.println(number + "는(은) " + (isPrime ? "소수 입니다." : "소수가 아닙니다."));
-	}
+	        sc.close();
+	    }
+
+	public static boolean isPrime(int n) {
+	        if (n <= 1) return false;  
+	        for (int i = 2; i <= Math.sqrt(n); i++) {  
+	            if (n % i == 0) return false; 
+	        }
+	        return true; 
+	    }
 }
