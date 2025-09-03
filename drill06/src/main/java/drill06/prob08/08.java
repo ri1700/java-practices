@@ -23,7 +23,7 @@ final int[] MONEYS = {50000, 10000, 5000, 1000, 500, 100, 50, 10, 5, 1};
 10원 : 2개
 5원 : 1개
 1원 : 4개
-*/
+**/
 public class Sol {
 	public static void main(String[] args) {
         Scanner a = new Scanner(System.in);

@@ -9,7 +9,7 @@ import java.util.Scanner;
 ​
 출력
 A B C D E
-*/
+**/
 public class Sol {
 
 	public static void main(String[] args) {

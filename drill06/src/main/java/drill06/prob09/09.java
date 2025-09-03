@@ -7,7 +7,7 @@ import java.util.Scanner;
 출력 예시
 변환: Java-is-fun-to-learn
 바뀐 공백 수: 4
-*/
+**/
 public class Sol {
 	public class ReplaceSpace {
 	    public static void main(String[] args) {

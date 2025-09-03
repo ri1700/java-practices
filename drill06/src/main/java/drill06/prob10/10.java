@@ -50,7 +50,7 @@ Arrays.sort() 등 내장 메서드 사용 금지
 
 6회: 마지막
 [60, 20, 9, 8, 5, 3, 1] : 60, 20 제자리
-*/
+**/
 public class Sol {
 	public static void main(String[] args) {
         int[] data = {5, 9, 3, 8, 60, 20, 1};

@@ -9,7 +9,7 @@ import java.util.Scanner;
 ​
 출력
 절댓값: 12
-*/
+**/
 public class Sol {
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);

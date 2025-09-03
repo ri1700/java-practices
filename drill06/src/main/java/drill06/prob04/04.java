@@ -10,7 +10,7 @@ import java.util.Scanner;
 ​
 출력
 알파벳입니다.
-*/
+**/
 public class Sol {
 	public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
