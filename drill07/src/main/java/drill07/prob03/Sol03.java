@@ -1,4 +1,4 @@
-package drill06.prob03;
+package drill07.prob03;
 
 import java.util.Scanner;
 /**
@@ -14,7 +14,7 @@ ex) 입력이 10 이면 30을 출력 ( 2 + 4 + 6 + 8 + 10 = 30 )
 출력
 결과값: 16
 */
-public class Sol {
+public class Sol03 {
 	
 	public static void main(String[] args) {
 		 Scanner sc = new Scanner(System.in);

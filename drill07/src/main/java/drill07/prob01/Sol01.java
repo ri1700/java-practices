@@ -19,7 +19,7 @@ C   F
 15  59.0
 20  68.0
 */
-public class Sol {
+public class Sol01 {
     public static void main(String[] args) {
     	Scanner a = new Scanner(System.in);
 

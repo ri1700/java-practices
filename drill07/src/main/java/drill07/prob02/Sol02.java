@@ -12,7 +12,7 @@ import java.util.Scanner;
 출력
 최대-최소 차이: 10
 */
-public class Sol {
+public class Sol02 {
 
 	public static void main(String[] args) {
 		Scanner a = new Scanner(System.in);

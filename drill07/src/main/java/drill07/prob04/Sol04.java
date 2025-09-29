@@ -1,4 +1,4 @@
-package drill06.prob04;
+package drill07.prob04;
 
 import java.util.Scanner;
 /**
@@ -18,7 +18,7 @@ Bat M
 Bat Ma
 Bat Man
 */
-public class Sol {
+public class Sol04 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
