@@ -11,7 +11,7 @@ import java.util.Scanner;
 출력
 자리수 합: 15
 **/
-public class Sol{
+public class Sol05 {
 	public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
 

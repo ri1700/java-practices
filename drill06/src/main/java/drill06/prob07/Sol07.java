@@ -14,7 +14,7 @@ package drill06.prob07;
 8 9 10 11 12 13 14 15 16 17
 9 10 11 12 13 14 15 16 17 18
 **/
-public class Sol {
+public class Sol07 {
 
 	public static void main(String[] args) {
 		

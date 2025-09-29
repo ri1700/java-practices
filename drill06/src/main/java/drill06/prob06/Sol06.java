@@ -11,7 +11,7 @@ import java.util.Scanner;
 출력
 28는(은) 완전수입니다.
 **/
-public class Sol {
+public class Sol06 {
 
 	public static void main(String[] args) {
 		Scanner a = new Scanner(System.in);

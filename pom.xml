@@ -35,5 +35,7 @@
 		
 		<module>chapter04</module>
 		<module>network</module>
+		<module>drill006</module>
+		<module>drill007</module>
 	</modules>
 </project>

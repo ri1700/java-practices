@@ -1,6 +1,6 @@
 package drill06.prob10;
 
-import java.util.Scanner;
+import java.util.Arrays;
 /**
 문제10. 버블 정렬을 이용한 내림차순 정렬
 문제 설명: 버블 정렬 알고리즘을 구현하여 정수를 내림차순으로 정렬하시오
@@ -51,7 +51,7 @@ Arrays.sort() 등 내장 메서드 사용 금지
 6회: 마지막
 [60, 20, 9, 8, 5, 3, 1] : 60, 20 제자리
 **/
-public class Sol {
+public class Sol10 {
 	public static void main(String[] args) {
         int[] data = {5, 9, 3, 8, 60, 20, 1};
 
